@@ -13,5 +13,5 @@ spec:
   resources:
     requests:
       storage: 10Mi
-  storageClassName: gp2
+  storageClassName: ibmc-file-gold-gid
   volumeMode: Filesystem
